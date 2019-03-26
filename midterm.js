@@ -17,15 +17,15 @@ function prod1() {
     audio.pause();
 
     document.getElementById("img1").style.left=10 + "px";  
-    document.getElementById("img2").style.left=1500 + "px";  
-    document.getElementById("img3").style.left=1500 + "px";  
-    document.getElementById("img4").style.left=1500 + "px";  
-    document.getElementById("img5").style.left=1500 + "px";  
-    document.getElementById("img6").style.left=1500 + "px";  
-    document.getElementById("img7").style.left=1500 + "px";  
-    document.getElementById("img8").style.left=1500 + "px";  
-    document.getElementById("img9").style.left=1500 + "px";  
-    document.getElementById("img10").style.left=1500 + "px";  
+    document.getElementById("img2").style.left=-1500 + "px";  
+    document.getElementById("img3").style.left=-1500 + "px";  
+    document.getElementById("img4").style.left=-1500 + "px";  
+    document.getElementById("img5").style.left=-1500 + "px";  
+    document.getElementById("img6").style.left=-1500 + "px";  
+    document.getElementById("img7").style.left=-1500 + "px";  
+    document.getElementById("img8").style.left=-1500 + "px";  
+    document.getElementById("img9").style.left=-1500 + "px";  
+    document.getElementById("img10").style.left=-1500 + "px";  
     document.getElementById("kirby").style.opacity = 0;
     document.getElementById("gamer").style.opacity = 0;
     document.getElementById("1").style.opacity= 1;
@@ -43,15 +43,15 @@ function prod1() {
 
   function prod2() {
     document.getElementById("img2").style.left=10 + "px";  
-    document.getElementById("img1").style.left=1500 + "px";  
-    document.getElementById("img3").style.left=1500 + "px";  
-    document.getElementById("img4").style.left=1500 + "px";  
-    document.getElementById("img5").style.left=1500 + "px";  
-    document.getElementById("img6").style.left=1500 + "px";  
-    document.getElementById("img7").style.left=1500 + "px";  
-    document.getElementById("img8").style.left=1500 + "px";  
-    document.getElementById("img9").style.left=1500 + "px";  
-    document.getElementById("img10").style.left=1500 + "px";  
+    document.getElementById("img1").style.left=-1500 + "px";  
+    document.getElementById("img3").style.left=-1500 + "px";  
+    document.getElementById("img4").style.left=-1500 + "px";  
+    document.getElementById("img5").style.left=-1500 + "px";  
+    document.getElementById("img6").style.left=-1500 + "px";  
+    document.getElementById("img7").style.left=-1500 + "px";  
+    document.getElementById("img8").style.left=-1500 + "px";  
+    document.getElementById("img9").style.left=-1500 + "px";  
+    document.getElementById("img10").style.left=-1500 + "px";  
     document.getElementById("kirby").style.opacity = 0;
     document.body.style.backgroundColor = "black";
     document.getElementById("gamer").style.opacity = 0;
@@ -70,15 +70,15 @@ function prod1() {
   }
   function prod3() {
     document.getElementById("img3").style.left=10 + "px";  
-    document.getElementById("img2").style.left=1500 + "px";  
-    document.getElementById("img1").style.left=1500 + "px";  
-    document.getElementById("img4").style.left=1500 + "px";  
-    document.getElementById("img5").style.left=1500 + "px";  
-    document.getElementById("img6").style.left=1500 + "px";  
-    document.getElementById("img7").style.left=1500 + "px";  
-    document.getElementById("img8").style.left=1500 + "px";  
-    document.getElementById("img9").style.left=1500 + "px";  
-    document.getElementById("img10").style.left=1500 + "px";  
+    document.getElementById("img2").style.left=-1500 + "px";  
+    document.getElementById("img1").style.left=-1500 + "px";  
+    document.getElementById("img4").style.left=-1500 + "px";  
+    document.getElementById("img5").style.left=-1500 + "px";  
+    document.getElementById("img6").style.left=-1500 + "px";  
+    document.getElementById("img7").style.left=-1500 + "px";  
+    document.getElementById("img8").style.left=-1500 + "px";  
+    document.getElementById("img9").style.left=-1500 + "px";  
+    document.getElementById("img10").style.left=-1500 + "px";  
     document.getElementById("kirby").style.opacity = 0;
     document.body.style.backgroundColor = "black";
     document.getElementById("gamer").style.opacity = 0;
@@ -96,15 +96,15 @@ function prod1() {
   }
   function prod4() {
     document.getElementById("img4").style.left=10 + "px";  
-    document.getElementById("img2").style.left=1500 + "px";  
-    document.getElementById("img3").style.left=1500 + "px";  
-    document.getElementById("img1").style.left=1500 + "px";  
-    document.getElementById("img5").style.left=1500 + "px";  
-    document.getElementById("img6").style.left=1500 + "px";  
-    document.getElementById("img7").style.left=1500 + "px";  
-    document.getElementById("img8").style.left=1500 + "px";  
-    document.getElementById("img9").style.left=1500 + "px";  
-    document.getElementById("img10").style.left=1500 + "px"; 
+    document.getElementById("img2").style.left=-1500 + "px";  
+    document.getElementById("img3").style.left=-1500 + "px";  
+    document.getElementById("img1").style.left=-1500 + "px";  
+    document.getElementById("img5").style.left=-1500 + "px";  
+    document.getElementById("img6").style.left=-1500 + "px";  
+    document.getElementById("img7").style.left=-1500 + "px";  
+    document.getElementById("img8").style.left=-1500 + "px";  
+    document.getElementById("img9").style.left=-1500 + "px";  
+    document.getElementById("img10").style.left=-1500 + "px"; 
     document.getElementById("kirby").style.opacity = 0;
     document.getElementById("gamer").style.opacity = 0;
     audio.pause();
@@ -122,15 +122,15 @@ function prod1() {
   }
   function prod5() {
     document.getElementById("img5").style.left=10 + "px";  
-    document.getElementById("img2").style.left=1500 + "px";  
-    document.getElementById("img3").style.left=1500 + "px";  
-    document.getElementById("img4").style.left=1500 + "px";  
-    document.getElementById("img1").style.left=1500 + "px";  
-    document.getElementById("img6").style.left=1500 + "px";  
-    document.getElementById("img7").style.left=1500 + "px";  
-    document.getElementById("img8").style.left=1500 + "px";  
-    document.getElementById("img9").style.left=1500 + "px";  
-    document.getElementById("img10").style.left=1500 + "px"; 
+    document.getElementById("img2").style.left=-1500 + "px";  
+    document.getElementById("img3").style.left=-1500 + "px";  
+    document.getElementById("img4").style.left=-1500 + "px";  
+    document.getElementById("img1").style.left=-1500 + "px";  
+    document.getElementById("img6").style.left=-1500 + "px";  
+    document.getElementById("img7").style.left=-1500 + "px";  
+    document.getElementById("img8").style.left=-1500 + "px";  
+    document.getElementById("img9").style.left=-1500 + "px";  
+    document.getElementById("img10").style.left=-1500 + "px"; 
     document.getElementById("kirby").style.opacity = 0;
     document.body.style.backgroundColor = "black";
     document.getElementById("gamer").style.opacity = 0;
@@ -148,15 +148,15 @@ function prod1() {
   }
   function prod6() {
     document.getElementById("img6").style.left=10 + "px";  
-    document.getElementById("img2").style.left=1500 + "px";  
-    document.getElementById("img3").style.left=1500 + "px";  
-    document.getElementById("img4").style.left=1500 + "px";  
-    document.getElementById("img5").style.left=1500 + "px";  
-    document.getElementById("img1").style.left=1500 + "px";  
-    document.getElementById("img7").style.left=1500 + "px";  
-    document.getElementById("img8").style.left=1500 + "px";  
-    document.getElementById("img9").style.left=1500 + "px";  
-    document.getElementById("img10").style.left=1500 + "px";  
+    document.getElementById("img2").style.left=-1500 + "px";  
+    document.getElementById("img3").style.left=-1500 + "px";  
+    document.getElementById("img4").style.left=-1500 + "px";  
+    document.getElementById("img5").style.left=-1500 + "px";  
+    document.getElementById("img1").style.left=-1500 + "px";  
+    document.getElementById("img7").style.left=-1500 + "px";  
+    document.getElementById("img8").style.left=-1500 + "px";  
+    document.getElementById("img9").style.left=-1500 + "px";  
+    document.getElementById("img10").style.left=-1500 + "px";  
     document.getElementById("kirby").style.opacity = 0;
     document.body.style.backgroundColor = "black";
     document.getElementById("gamer").style.opacity = 0;
@@ -174,15 +174,15 @@ function prod1() {
   }
   function prod7() {
     document.getElementById("img7").style.left=10 + "px"; 
-    document.getElementById("img2").style.left=1500 + "px";  
-    document.getElementById("img3").style.left=1500 + "px";  
-    document.getElementById("img4").style.left=1500 + "px";  
-    document.getElementById("img5").style.left=1500 + "px";  
-    document.getElementById("img6").style.left=1500 + "px";  
-    document.getElementById("img1").style.left=1500 + "px";  
-    document.getElementById("img8").style.left=1500 + "px";  
-    document.getElementById("img9").style.left=1500 + "px";  
-    document.getElementById("img10").style.left=1500 + "px";   
+    document.getElementById("img2").style.left=-1500 + "px";  
+    document.getElementById("img3").style.left=-1500 + "px";  
+    document.getElementById("img4").style.left=-1500 + "px";  
+    document.getElementById("img5").style.left=-1500 + "px";  
+    document.getElementById("img6").style.left=-1500 + "px";  
+    document.getElementById("img1").style.left=-1500 + "px";  
+    document.getElementById("img8").style.left=-1500 + "px";  
+    document.getElementById("img9").style.left=-1500 + "px";  
+    document.getElementById("img10").style.left=-1500 + "px";   
     document.getElementById("kirby").style.opacity = 0;
     document.body.style.backgroundColor = "black";
     document.getElementById("gamer").style.opacity = 0;
@@ -200,15 +200,15 @@ function prod1() {
   }
   function prod8() {
     document.getElementById("img8").style.left=10 + "px";  
-    document.getElementById("img2").style.left=1500 + "px";  
-    document.getElementById("img3").style.left=1500 + "px";  
-    document.getElementById("img4").style.left=1500 + "px";  
-    document.getElementById("img5").style.left=1500 + "px";  
-    document.getElementById("img6").style.left=1500 + "px";  
-    document.getElementById("img7").style.left=1500 + "px";  
-    document.getElementById("img1").style.left=1500 + "px";  
-    document.getElementById("img9").style.left=1500 + "px";  
-    document.getElementById("img10").style.left=1500 + "px";  
+    document.getElementById("img2").style.left=-1500 + "px";  
+    document.getElementById("img3").style.left=-1500 + "px";  
+    document.getElementById("img4").style.left=-1500 + "px";  
+    document.getElementById("img5").style.left=-1500 + "px";  
+    document.getElementById("img6").style.left=-1500 + "px";  
+    document.getElementById("img7").style.left=-1500 + "px";  
+    document.getElementById("img1").style.left=-1500 + "px";  
+    document.getElementById("img9").style.left=-1500 + "px";  
+    document.getElementById("img10").style.left=-1500 + "px";  
     document.getElementById("kirby").style.opacity = 0;
     document.body.style.backgroundColor = "black";
     document.getElementById("gamer").style.opacity = 0;
@@ -227,15 +227,15 @@ function prod1() {
   }
   function prod9() {
     document.getElementById("img9").style.left=10 + "px";  
-    document.getElementById("img2").style.left=1500 + "px";  
-    document.getElementById("img3").style.left=1500 + "px";  
-    document.getElementById("img4").style.left=1500 + "px";  
-    document.getElementById("img5").style.left=1500 + "px";  
-    document.getElementById("img6").style.left=1500 + "px";  
-    document.getElementById("img7").style.left=1500 + "px";  
-    document.getElementById("img8").style.left=1500 + "px";  
-    document.getElementById("img1").style.left=1500 + "px";  
-    document.getElementById("img10").style.left=1500 + "px"; 
+    document.getElementById("img2").style.left=-1500 + "px";  
+    document.getElementById("img3").style.left=-1500 + "px";  
+    document.getElementById("img4").style.left=-1500 + "px";  
+    document.getElementById("img5").style.left=-1500 + "px";  
+    document.getElementById("img6").style.left=-1500 + "px";  
+    document.getElementById("img7").style.left=-1500 + "px";  
+    document.getElementById("img8").style.left=-1500 + "px";  
+    document.getElementById("img1").style.left=-1500 + "px";  
+    document.getElementById("img10").style.left=-1500 + "px"; 
     document.getElementById("kirby").style.opacity = 0;
     document.body.style.backgroundColor = "black";
     document.getElementById("gamer").style.opacity = 0;
@@ -255,15 +255,15 @@ function prod1() {
   }
   function prod10() {
     document.getElementById("img10").style.left=10 + "px";  
-    document.getElementById("img2").style.left=1500 + "px";  
-    document.getElementById("img3").style.left=1500 + "px";  
-    document.getElementById("img4").style.left=1500 + "px";  
-    document.getElementById("img5").style.left=1500 + "px";  
-    document.getElementById("img6").style.left=1500 + "px";  
-    document.getElementById("img7").style.left=1500 + "px";  
-    document.getElementById("img8").style.left=1500 + "px";  
-    document.getElementById("img9").style.left=1500 + "px";  
-    document.getElementById("img1").style.left=1500 + "px";  
+    document.getElementById("img2").style.left=-1500 + "px";  
+    document.getElementById("img3").style.left=-1500 + "px";  
+    document.getElementById("img4").style.left=-1500 + "px";  
+    document.getElementById("img5").style.left=-1500 + "px";  
+    document.getElementById("img6").style.left=-1500 + "px";  
+    document.getElementById("img7").style.left=-1500 + "px";  
+    document.getElementById("img8").style.left=-1500 + "px";  
+    document.getElementById("img9").style.left=-1500 + "px";  
+    document.getElementById("img1").style.left=-1500 + "px";  
     document.body.style.backgroundColor = "gold";
     document.getElementById("kirby").style.opacity = 1;
     document.getElementById("gamer").style.opacity = 1;
