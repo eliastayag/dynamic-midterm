@@ -53,7 +53,7 @@ button {
 .imgs {
     position: absolute;
     width: 400px;
-    left: 1500px;
+    left: -1500px;
     transition: 1s;
 }
 
